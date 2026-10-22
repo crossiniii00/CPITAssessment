@@ -15,8 +15,7 @@ import {
   Clock,
   User,
   ShieldCheck,
-  HelpCircle,
-  Sparkles
+  HelpCircle
 } from 'lucide-react';
 import questionsData from './data/questions.json';
 import Background from './components/Background';
